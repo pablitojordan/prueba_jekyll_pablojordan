@@ -1,0 +1,13 @@
+.current {
+  color: green;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+}
