@@ -1,8 +1,8 @@
 - name: Inicio
-  link: /
+  link: /prueba_jekyll_pablojordan/
 - name: Sobre mí
-  link: /about.html
+  link: /prueba_jekyll_pablojordan/about.html
 - name: Blog
-  link: /blog.html
+  link: /prueba_jekyll_pablojordan/blog.html
 - name: Autores
-  link: /staff.html
+  link: /prueba_jekyll_pablojordan/staff.html
